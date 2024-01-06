@@ -1,0 +1,1 @@
+TRUNCATE TABLE dpd_stats;
